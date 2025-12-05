@@ -3,5 +3,4 @@
 -->
 I program things sometimes (though sometimes not) 
 
-radio is cool
-trains are cool 
+radio, trains & planes are pretty cool
